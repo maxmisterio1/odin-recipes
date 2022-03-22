@@ -1,0 +1,1 @@
+Setting up a basic site using HTML only 
